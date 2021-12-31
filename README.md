@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently developing a mobile apps with React Native
 
-- 🌱 I’m currently learning **React Native & React**
+- 🌱 I’m currently learning React Native & React
 
 - 📝 I regularly write articles on Medium about coding,fitness,nutrition
 
-- ⚡ Fun fact **Also I am working as Personal Trainer & Nutrition Coach. Feel free to contact me about workout and dieting tips 🏋️‍♂️**
+- ⚡ Fun fact / Also I am working as Personal Trainer & Nutrition Coach. Feel free to contact me about workout and dieting tips 🏋️‍♂️
 
 ### Connect with me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serdar-bedir-24a076159/)
