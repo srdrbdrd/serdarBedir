@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serdar</h1>
 <h3 align="center">Mobile Application Developer</h3>
 
-- 🔭 I’m currently developing a mobile apps with React Native
+- 🔭 I’m currently developing mobile apps with React Native
 
 - 🌱 I’m currently learning React Native & React
 
