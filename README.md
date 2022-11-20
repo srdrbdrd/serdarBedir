@@ -28,6 +28,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native Proje Yapısı ve Temiz Kodlama](https://medium.com/@srdrbdrd/react-native-proje-yap%C4%B1s%C4%B1-ve-temiz-kodlama-57fe5728f30b)
 - [React Native Layout ve Flexbox Mantığı](https://srdrbdrd.medium.com/react-native-layout-ve-flexbox-mant%C4%B1%C4%9F%C4%B1-82e314f4a950?p=82e314f4a950)
 - [Kas Geliştirmenin Temeli ve Evde Antrenman](https://srdrbdrd.medium.com/kas-geli%C5%9Ftirmenin-temeli-ve-evde-antrenman-275d7332bbb2)
 - [Beslenme Gerçekleri, Öğün Sayısı ve Zamanlaması, Açlık, Diyetler, Hormonlar, Detoks, Tecrübelerim…](https://srdrbdrd.medium.com/do%C4%9Fru-beslenme-%C3%B6%C4%9F%C3%BCn-say%C4%B1s%C4%B1-ve-zamanlamas%C4%B1-a%C3%A7l%C4%B1k-diyetler-hormonlar-tecr%C3%BCbelerim-66d70c5c1fc5)
